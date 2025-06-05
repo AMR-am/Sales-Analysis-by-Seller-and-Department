@@ -12,7 +12,7 @@
 - تصفية وتحليل العملاء حسب الأيام.
 
 ## الملف المستخدم
-`daily_sales_data.csv` يحتوي على:
+`department_store_dataset.csv` يحتوي على:
 - Seller: اسم البائع
 - Department: القسم
 - Revenue: الإيرادات اليومية
